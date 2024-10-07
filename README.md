@@ -1,2 +1,3 @@
 可能是唯一一个Openwrt-passwall的cl仓库
 目标:同步上游的每个提交，并进行编译，提供最新的功能体验
+由于多次编译失败，本仓库将不再提供mipsel-74kc及arm_cortex-a15_neon-vfpv4的ipk
